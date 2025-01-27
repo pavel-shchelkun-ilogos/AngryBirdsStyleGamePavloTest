@@ -1,7 +1,6 @@
 using UnityEngine;
 
-// Singletone pattern for MonoBehavior
-public abstract class MonoSingleton<T> : MonoBehaviour where T : Singleton<T>
+public abstract class MonoSingleton<T> : MonoBehaviour where T : MonoBehaviour
 {
     private static T instance;
     private static readonly object lockObject = new object();
