@@ -1,7 +1,7 @@
 using UnityEngine;
 
 [RequireComponent(typeof(Rigidbody))]
-public class TestPlayerController : MonoBehaviour
+public class TestPlayerController : MonoSingleton<TestPlayerController>
 {
 	public float moveSpeed = 5f;
     
