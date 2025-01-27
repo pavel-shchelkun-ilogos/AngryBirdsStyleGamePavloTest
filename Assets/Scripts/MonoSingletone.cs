@@ -1,5 +1,6 @@
 using UnityEngine;
 
+// Singletone pattern for MonoBehavior
 public abstract class MonoSingleton<T> : MonoBehaviour where T : Singleton<T>
 {
     private static T instance;
