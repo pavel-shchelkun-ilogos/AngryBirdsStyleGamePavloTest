@@ -680,6 +680,57 @@ MonoBehaviour:
   BirdWaitPosition: {fileID: 444800984}
   ThrowSpeed: 10
   TimeSinceThrown: 0
+--- !u!1001 &580122652
+PrefabInstance:
+  m_ObjectHideFlags: 0
+  serializedVersion: 2
+  m_Modification:
+    m_TransformParent: {fileID: 1476795469}
+    m_Modifications:
+    - target: {fileID: 100000, guid: 44b475a6ec50a2d478371813bff1ef29, type: 3}
+      propertyPath: m_Name
+      value: Destroyer (1)
+      objectReference: {fileID: 0}
+    - target: {fileID: 400000, guid: 44b475a6ec50a2d478371813bff1ef29, type: 3}
+      propertyPath: m_RootOrder
+      value: 3
+      objectReference: {fileID: 0}
+    - target: {fileID: 400000, guid: 44b475a6ec50a2d478371813bff1ef29, type: 3}
+      propertyPath: m_LocalPosition.x
+      value: -22.31979
+      objectReference: {fileID: 0}
+    - target: {fileID: 400000, guid: 44b475a6ec50a2d478371813bff1ef29, type: 3}
+      propertyPath: m_LocalPosition.y
+      value: 5.5132256
+      objectReference: {fileID: 0}
+    - target: {fileID: 400000, guid: 44b475a6ec50a2d478371813bff1ef29, type: 3}
+      propertyPath: m_LocalPosition.z
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 400000, guid: 44b475a6ec50a2d478371813bff1ef29, type: 3}
+      propertyPath: m_LocalRotation.w
+      value: 1
+      objectReference: {fileID: 0}
+    - target: {fileID: 400000, guid: 44b475a6ec50a2d478371813bff1ef29, type: 3}
+      propertyPath: m_LocalRotation.x
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 400000, guid: 44b475a6ec50a2d478371813bff1ef29, type: 3}
+      propertyPath: m_LocalRotation.y
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 400000, guid: 44b475a6ec50a2d478371813bff1ef29, type: 3}
+      propertyPath: m_LocalRotation.z
+      value: 0
+      objectReference: {fileID: 0}
+    m_RemovedComponents: []
+  m_SourcePrefab: {fileID: 100100000, guid: 44b475a6ec50a2d478371813bff1ef29, type: 3}
+--- !u!4 &580122653 stripped
+Transform:
+  m_CorrespondingSourceObject: {fileID: 400000, guid: 44b475a6ec50a2d478371813bff1ef29,
+    type: 3}
+  m_PrefabInstance: {fileID: 580122652}
+  m_PrefabAsset: {fileID: 0}
 --- !u!1001 &588887374
 PrefabInstance:
   m_ObjectHideFlags: 0
@@ -2387,6 +2438,7 @@ Transform:
   - {fileID: 1084050204}
   - {fileID: 797917829}
   - {fileID: 191572698}
+  - {fileID: 580122653}
   m_Father: {fileID: 0}
   m_RootOrder: 8
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
