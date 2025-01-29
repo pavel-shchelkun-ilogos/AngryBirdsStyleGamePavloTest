@@ -689,7 +689,7 @@ PrefabInstance:
     m_Modifications:
     - target: {fileID: 100000, guid: 44b475a6ec50a2d478371813bff1ef29, type: 3}
       propertyPath: m_Name
-      value: Destroyer (1)
+      value: DestroyerTest
       objectReference: {fileID: 0}
     - target: {fileID: 400000, guid: 44b475a6ec50a2d478371813bff1ef29, type: 3}
       propertyPath: m_RootOrder
