@@ -730,3 +730,15 @@ Received Import Request.
   path: Assets/Materials/TestShadergraph.mat
   artifactKey: Guid(a6ad194a72eb04c22b2b7dedff8906a4) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
 Start importing Assets/Materials/TestShadergraph.mat using Guid(a6ad194a72eb04c22b2b7dedff8906a4) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '5530d95e3e1920ed874c7c7e1158382a') in 0.032079 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 1698.180493 seconds.
+  path: Assets/Models
+  artifactKey: Guid(88ae76fe5474c4939ba12d1031233972) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Models using Guid(88ae76fe5474c4939ba12d1031233972) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '8e51abecaf24bb233130d511c58d0990') in 0.019216 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 21.742939 seconds.
+  path: Assets/Models/sword.fbx
+  artifactKey: Guid(309a919fe7e354055ac8aa5685a2d007) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Models/sword.fbx using Guid(309a919fe7e354055ac8aa5685a2d007) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'b9851450e150b225fd27762d220cf887') in 0.870430 seconds 
