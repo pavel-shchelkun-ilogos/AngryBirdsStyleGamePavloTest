@@ -694,3 +694,39 @@ Received Import Request.
   path: Assets/UI Toolkit/UnityThemes/UnityDefaultRuntimeTheme.tss
   artifactKey: Guid(371b845892172471fa1cabce7e93f2fd) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
 Start importing Assets/UI Toolkit/UnityThemes/UnityDefaultRuntimeTheme.tss using Guid(371b845892172471fa1cabce7e93f2fd) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '5639693fb1b4abca0056162195684dcc') in 0.035940 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 92.171795 seconds.
+  path: Assets/Materials/Floor.physicsMaterial2D
+  artifactKey: Guid(dd6a97cc93bb7af48b69c503bcbcf1cd) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Materials/Floor.physicsMaterial2D using Guid(dd6a97cc93bb7af48b69c503bcbcf1cd) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '3c1e27083bee936d9b517707311353ea') in 0.268233 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.000208 seconds.
+  path: Assets/Materials/Smoke.mat
+  artifactKey: Guid(96558d9af5ccba84da0a06dc9afa072d) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Materials/Smoke.mat using Guid(96558d9af5ccba84da0a06dc9afa072d) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '04f7caecc8f5f7c7bbbaef63b2d96f4c') in 0.572429 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 743.244859 seconds.
+  path: Assets/Materials/TestShadergraph.mat
+  artifactKey: Guid(a6ad194a72eb04c22b2b7dedff8906a4) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Materials/TestShadergraph.mat using Guid(a6ad194a72eb04c22b2b7dedff8906a4) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '50d69e08557ecc6704f9d8d9382bed0f') in 1.066884 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 35.334882 seconds.
+  path: Assets/Shaders
+  artifactKey: Guid(7e1f4b3e7f5f6470598523cb45de6c25) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Shaders using Guid(7e1f4b3e7f5f6470598523cb45de6c25) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '9cdf3efad1dca47a35d6abfeaad03a12') in 0.003248 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 72.804775 seconds.
+  path: Assets/Materials/TestShadergraph.mat
+  artifactKey: Guid(a6ad194a72eb04c22b2b7dedff8906a4) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Materials/TestShadergraph.mat using Guid(a6ad194a72eb04c22b2b7dedff8906a4) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'd30609db0cc49c379aede76122266ee7') in 0.637446 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 4.076206 seconds.
+  path: Assets/Materials/TestShadergraph.mat
+  artifactKey: Guid(a6ad194a72eb04c22b2b7dedff8906a4) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Materials/TestShadergraph.mat using Guid(a6ad194a72eb04c22b2b7dedff8906a4) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '5530d95e3e1920ed874c7c7e1158382a') in 0.032079 seconds 

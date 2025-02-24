@@ -482,3 +482,9 @@ AssetImportParameters requested are different than current active one (requested
   custom:container-demuxer-ogg: 62fdf1f143b41e24485cea50d1cbac27 -> 
   custom:video-decoder-webm-vp8: 9c59270c3fd7afecdb556c50c9e8de78 -> 
   custom:audio-decoder-ogg-vorbis: bf7c407c2cedff20999df2af8eb42d56 -> 
+========================================================================
+Received Import Request.
+  Time since last request: 29020.297008 seconds.
+  path: Assets/Materials/LineRendererMaterial.mat
+  artifactKey: Guid(c8054517d5dd81f438a7ca239b5d7461) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Materials/LineRendererMaterial.mat using Guid(c8054517d5dd81f438a7ca239b5d7461) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'c795b3cd56f9056ec5b8a41555aec2a9') in 3.237479 seconds 
