@@ -8,7 +8,7 @@ using DG.Tweening.Core;
 using DG.Tweening.Plugins.Core.PathCore;
 using DG.Tweening.Plugins.Options;
 
-#pragma warning disable 1591
+//#pragma warning disable 1591
 namespace DG.Tweening
 {
     /// <summary>
