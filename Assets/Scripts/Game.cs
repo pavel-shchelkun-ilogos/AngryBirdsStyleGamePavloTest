@@ -11,6 +11,6 @@ namespace Assets.Scripts
 		/// <summary>
 		/// Gets the global, lazily-initialized IServiceLocator instance.
 		/// </summary>
-		public static IServiceLocator ServiceLocator => _lazyInstance.Value;
+		public static IServiceLocator Services => _lazyInstance.Value;
 	}
 }
