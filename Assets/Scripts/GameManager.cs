@@ -19,6 +19,8 @@ public class GameManager : MonoBehaviour
     // Use this for initialization
     void Start()
     {
+	    ServiceLocator.Instance.Register(this);
+	    
         CurrentGameState = GameState.Start;
         slingshot.enabled = false;
         //find all relevant game objects
