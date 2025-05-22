@@ -11,7 +11,7 @@ public class TestPlayerController : MonoSingleton<TestPlayerController>
 	void Start()
 	{
 		rb = GetComponent<Rigidbody>();
-		//GameManager gameManager = Game.ServiceLocator.Get<GameManager>();
+		GameManager gameManager = Game.ServiceLocator.Get<GameManager>();
 		// TODO:
 	}
 
