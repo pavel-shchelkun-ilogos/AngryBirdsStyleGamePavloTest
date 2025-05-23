@@ -10,6 +10,7 @@ namespace Assets.Scripts.Test
 			var services = new ServiceLocator();
 			var monoSingletone = FindObjectOfType<TestPlayerController>();
 			var test = new TestScript();
+			services.Get<SlingShot>();
 		}
 	}
 }
